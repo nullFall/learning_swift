@@ -1,4 +1,4 @@
-entrypoint = "main.swift"
+entrypoint = "Functions.swift"
 
 modules = ["swift"]
 
